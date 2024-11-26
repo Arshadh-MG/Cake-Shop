@@ -1,0 +1,130 @@
+[
+    {
+        "id":89, 
+        "name":"Butter cake",
+        "amt":"159",
+        "pic":"https://www.mybakingaddiction.com/wp-content/uploads/2023/03/plated-gooey-butter-cake-hero.jpg",
+        "Latest":"NO"
+        
+    },
+    {
+        "id":79, 
+        "name":"Coconut cake",
+        "amt":"299",
+        "pic": "https://images.mrcook.app/recipe-image/018e9661-102d-7400-99fb-d982f3913871",
+        "Latest":"NO"
+    },
+    {
+        "id":69, 
+        "name":"Coffee cake",
+        "amt":"199",
+        "pic": "https://assets.epicurious.com/photos/646fd1ec46df4526c7e6b42d/4:3/w_4064,h_3048,c_limit/coffee-cake_RECIPE_052423_16411_VOG_final.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":99, 
+        "name":"Coffee and walnut cake",
+        "amt":"499",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9rtsHdsdFRZ51QF5W4GvBoZuA8LvTdwcEeA&s",
+        "Latest":"NO"
+    },
+    {
+        "id":29, 
+        "name":"Rasmalai cake",
+        "amt":"399",
+        "pic": "https://pickyeaterblog.com/wp-content/uploads/2023/02/rasmalai-tres-leches-cake.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":19, 
+        "name":"Cookie cake",
+        "amt":"299",
+        "pic": "https://handletheheat.com/wp-content/uploads/2023/08/Square-Featured-Photo.png",
+        "Latest":"NO"
+    },
+    {
+        "id":39, 
+        "name":"Strabbery Cake",
+        "amt":"299",
+        "pic": "https://sallysbakingaddiction.com/wp-content/uploads/2017/12/homemade-strawberry-cake.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":49, 
+        "name":"Red velvet cake",
+        "amt":"299",
+        "pic": "https://assets.giftalove.com/resources/common/giftimages/productimage2/tempting-heart-shaped-red-velvet-cake.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":59, 
+        "name":"Carrot cake",
+        "amt":"99",
+        "pic": "https://www.inspiredtaste.net/wp-content/uploads/2024/01/Carrot-Cake-Recipe-Video.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":11, 
+        "name":"Cheesecake",
+        "amt":"190",
+        "pic": "https://www.mybakingaddiction.com/wp-content/uploads/2022/08/plated-blueberry-cheesecake-hero.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":11, 
+        "name":"Blackforest cake",
+        "amt":"349",
+        "pic": "https://www.littlesweetbaker.com/wp-content/uploads/2021/04/easy-black-forest-cake-2.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":11, 
+        "name":"Pistha cake",
+        "amt":"189",
+        "pic": "https://ajafoppkyr.cloudimg.io/https://f004.backblazeb2.com/file/caffe-concerto/misc/104eef746f41e3ae2301bccd84f88597.jpeg?w=580&h=580",
+        "Latest":"NO"
+    },
+    {
+        "id":11, 
+        "name":"Kunafa Cake",
+        "amt":"689",
+        "pic": "https://neethmedappa.com/wp-content/uploads/2024/08/Kunafa-Cake-scaled.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":11, 
+        "name":"Vannila cake",
+        "amt":"129",
+        "pic": "https://minimalistbaker.com/wp-content/uploads/2024/03/Best-Vegan-Gluten-Free-Vanilla-Cake-10.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":11, 
+        "name":"Blackcurrent cake",
+        "amt":"139",
+        "pic": "https://www.cakesquarechennaionline.com/wp-content/uploads/2023/08/Blackcurrant-Cheese-Birthday-Cakes-500-gms-By-Cake-Square-Send-Cakes-to-Chennai-Eggless-Fruit-Cakes.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":11, 
+        "name":"Icecream cake",
+        "amt":"499",
+        "pic": "https://stressbaking.com/wp-content/uploads/2019/07/neopolitan-ice-cream-cake-1-14.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":11, 
+        "name":"Brownie cake",
+        "amt":"79",
+        "pic": "https://www.ihearteating.com/wp-content/uploads/2024/02/Brownie-Cake-15-1200-1.jpg",
+        "Latest":"NO"
+    },
+    {
+        "id":12, 
+        "name":"Sponge Cake",
+        "amt":"129",
+        "pic": "https://static01.nyt.com/images/2021/05/27/dining/cs-sponge-cake/merlin_188067723_c149734b-f3b2-42ee-909f-fcc085c938b9-superJumbo.jpg",
+        "Latest":"NO"
+    }
+    
+]
